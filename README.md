@@ -15,4 +15,4 @@ Ce Repo servira a partager mes débuts dans le domaine de l'informatique. 💻
 
 Je vais documenter mon parcours pour avoir une trace et possiblement aider.
 
- <script src="https://tryhackme.com/badge/2808011">{newline}</script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/nessV.png" alt="TryHackMe">
