@@ -16,4 +16,4 @@ Ce Repo servira a partager mes débuts dans le domaine de l'informatique. 💻
 Je vais documenter mon parcours pour avoir une trace et possiblement aider.
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/nessV.png" alt="TryHackMe">
-![tryhackme stats](https://raw.githubusercontent.com/nessV/nessV/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/nesstaur/mypath/master/assets/thm_propic.png)
